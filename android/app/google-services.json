@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577988875",
+    "project_id": "art-app-auth",
+    "storage_bucket": "art-app-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577988875:android:86acaf8cceb57b7a499a0e",
+        "android_client_info": {
+          "package_name": "com.example.artwork_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577988875-he1b6jhoem272c44ka57l2827cepqtvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeptVKKfvHNdYjm5j7mAIQu4SIlMeoFBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577988875-he1b6jhoem272c44ka57l2827cepqtvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
