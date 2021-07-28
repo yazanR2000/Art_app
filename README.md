@@ -1,6 +1,6 @@
 # artwork_app
 
-A new Flutter application.
+Flutter app for art work with back-end nodejs/mongodb.
 
 
 
